@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692099145 source:c:\users\sidne\documents\c++ minor projects\introduction to c++\school_records_system\records.cpp
+	"records.h"
+
+1627021236 c:\users\sidne\documents\c++ minor projects\introduction to c++\school_records_system\records.h
+	<string>
+
